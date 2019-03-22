@@ -8,7 +8,6 @@
     {
         public BillsPaymentSystemContext()
         {
-
         }
 
         public DbSet<BankAccount> BankAccounts { get; set; }
